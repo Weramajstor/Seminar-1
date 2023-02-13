@@ -1,3 +1,9 @@
+/*
+
+Preuzeto i modificirano sa stranice 
+https://cp-algorithms.com/algebra/fft.html#implementation
+
+*/
 #include <bits/stdc++.h>
 #include <cstdio>
 using namespace std;
